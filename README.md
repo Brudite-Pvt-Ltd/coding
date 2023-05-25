@@ -1,2 +1,16 @@
-# coding
-Centralised Repository of the Coding Sheet on various DS topics
+# TOPIC WISE CODING CHALLENGES
+
+Centralised Repository of the Coding Sheet on different data structure
+
+- ARRAY
+- MATRIX
+- STRING
+- SEARCHING AND SORTING
+- LINKED LIST
+- BINARY TREES
+- BINARY SEARCH TREES
+- GREEDY
+- BACKTRACKING
+- STACK AND QUEUES
+- HEAP
+- GRAPH
