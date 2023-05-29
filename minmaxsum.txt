@@ -1,0 +1,22 @@
+class Solution
+{ 
+    public static int findSum(int arr[],int N) 
+    {
+        
+        int largest=Integer.MIN_VALUE;
+        int smallest=Integer.MAX_VALUE;
+        for(int i=0;i<N;i++){
+            if(largest<arr[i]){
+                largest=arr[i];
+            }
+        }    
+        for(int j=0;j<N;j++){
+            if(smallest>arr[j]){
+                
+                smallest=arr[j];
+            }
+        }
+        
+        return smallest+largest;
+    }
+}
